@@ -1,0 +1,12 @@
+ParafusoEstribo,Rabeta,Raio,AroRoda
+Rolamento,Pistao,GuiaCorrenteComando,ValvulaAdmissao
+CaboFreio,CaboAcelerador,CarcacaAcelerador
+KitTracao,OleoMotor
+Retrovisor
+CapaChuva
+ParafusoRabeta,ParafusoFlange
+CapaChuva
+CavaleteLateral,EstriboCentral,BorrachaEstribo,MolaCavaleteLateral
+Estopa,FitaIsolante,RetentorBengala,Abracadeira
+CamaraAr
+OleoMotor
